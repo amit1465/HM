@@ -18,7 +18,5 @@ public class Juggler implements Performer{
 	}
 	
 	// changed in juggler
-	
-	// change in juggler agian
 
 }
