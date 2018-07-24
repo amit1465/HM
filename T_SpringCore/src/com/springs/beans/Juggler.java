@@ -16,5 +16,7 @@ public class Juggler implements Performer{
 		System.out.println("JUGGLING "+beanBags+" BEANBAGS");
 		
 	}
+	
+	// changed in juggler
 
 }
